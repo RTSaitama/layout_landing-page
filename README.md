@@ -16,9 +16,9 @@ JavaScript – adding interactive elements (e.g., registration form, animations)
 
 npm – for dependency management and task automation.
 
-Also i used webp images, pre load methods and <defer> - usefull tools that should reduce your wait for page loading
-Go here and take a look!
+Also i used webp images, pre load methods and "defer for my js " - solutions that should reduce your wait for page loading.
 
+Go here and take a look : 
 [DEMO LINK](https://RTSaitama.github.io/layout_landing-page/)
 
 
