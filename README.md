@@ -15,3 +15,6 @@ SCSS – CSS preprocessor for organization and support of variables, mixins, and
 JavaScript – adding interactive elements (e.g., registration form, animations).
 
 npm – for dependency management and task automation.
+
+Go here and take a look!
+[DEMO LINK](https://RTSaitama.github.io/layout_landing-page/)
